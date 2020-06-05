@@ -1,0 +1,20 @@
+PODS:
+  - GCCalendar (2.5.0)
+  - SideMenu (6.4.8)
+
+DEPENDENCIES:
+  - GCCalendar
+  - SideMenu
+
+SPEC REPOS:
+  trunk:
+    - GCCalendar
+    - SideMenu
+
+SPEC CHECKSUMS:
+  GCCalendar: 88978ad35e25e26725dcb9372fc3b091362d78eb
+  SideMenu: 4a891be552d30bb6fa87ad404d62e485f8450c34
+
+PODFILE CHECKSUM: e01a24b17fc2b7509406cb3a024628e429914f50
+
+COCOAPODS: 1.9.1
